@@ -2,7 +2,6 @@
 layout: publication
 title: Publication
 slug: /publication
-
 items:
   - title: Journal(SCI)
     image:
