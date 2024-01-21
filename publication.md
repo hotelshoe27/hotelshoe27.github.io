@@ -3,8 +3,6 @@ layout: publication
 title: Publication
 slug: /publication
 
-### Journal
-
 items:
   - title: Journal(SCI)
     image:
@@ -16,12 +14,6 @@ items:
       src: /assets/img/work/journal_1.png
       alt: sand
     description: Vi Thi-Tuong Vo, Tae-ho Shin, et al. “Asynchronous Federated Learning for Survival Time Prediction using Clinical and PET Data in Non-small Cell Lung Cancer Patients.” Computer Methods and Programs in Biomedicine(To appear)
-
-
-
-### Conference
-
-items:
   - title: Conference
     image:
       src: /assets/img/work/123.jpg
