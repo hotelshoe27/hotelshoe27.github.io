@@ -27,17 +27,10 @@ footer:
       value: edensth@gmail.com (global)
       link: mailto:edensth@gmail.com
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
+      link: https://github.com/hotelshoe27
+    - name: Tistory
+      link: https://prlabhotelshoe.tistory.com/
     - name: RSS
       link: /feed.xml
 
