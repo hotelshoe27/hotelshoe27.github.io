@@ -1,7 +1,7 @@
 ---
 layout: Experience
 title: Experience
-slug: /experience
+slug: /work
 ---
 
 This is an example of a "Blog" page, displaying a list of posts.
