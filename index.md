@@ -14,7 +14,7 @@ Birth : 1995.01.10
 Location : Republic of Korea
 
 
-### About me
+### 💧About me
 Hello
 I'm currently working on Research Institute for Future Medicine, Samsung Medical Center(SMC), Republic of Korea.
 
@@ -25,7 +25,7 @@ I'm interested in Deep learning, Image segmentation, Medical image analysis, Log
 
 
 
-### My Stack
+### 💧My Stack
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?&style=flat-square&logo=OpenCV&logoColor=white"/>
 
@@ -36,7 +36,7 @@ I'm interested in Deep learning, Image segmentation, Medical image analysis, Log
 
 
 
-### Certification
+### 💧Certification
 
 - 정보처리기사
 
