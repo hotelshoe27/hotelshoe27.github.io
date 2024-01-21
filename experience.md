@@ -1,4 +1,4 @@
-![image](https://github.com/hotelshoe27/hotelshoe27.github.io/assets/120359150/5f9f9988-f522-4361-83c4-ae59adf2b0f4)![image](https://github.com/hotelshoe27/hotelshoe27.github.io/assets/120359150/60928982-9040-48f9-a43d-ea6fdcb820f4)---
+---
 layout: experience
 title: Experience
 slug: /experience
