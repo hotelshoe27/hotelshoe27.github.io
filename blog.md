@@ -27,9 +27,9 @@ This is an example of a "Blog" page, displaying a list of posts.
 
 ### Programs
 
-- 2021. 05 인공지능 코딩 입문 및 활용 단기 강좌 (한국인공지능학회)
-- 2021. 05 시각 정보 처리 이해 및 실습 (한국정보과학회)
-- 2021. 08 파이썬 활용 데이터 분석 특강 (전남대학교)
-- 2021. 11 민간 SW 개발 보안 입문 과정 (한국인터넷진흥원)
-- 2022. 07 International Summer Camp : How to use machine learning techniques in the field of computer security 단기국외연수 (전남대학교 AI융합인재양성사업단)
-- 2022. 09 AI cloud 인재 양성 아카데미 초급 과정 9네이버 클라우드)
+- 2021.05 인공지능 코딩 입문 및 활용 단기 강좌 (한국인공지능학회)
+- 2021.05 시각 정보 처리 이해 및 실습 (한국정보과학회)
+- 2021.08 파이썬 활용 데이터 분석 특강 (전남대학교)
+- 2021.11 민간 SW 개발 보안 입문 과정 (한국인터넷진흥원)
+- 2022.07 International Summer Camp : How to use machine learning techniques in the field of computer security 단기국외연수 (전남대학교 AI융합인재양성사업단)
+- 2022.09 AI cloud 인재 양성 아카데미 초급 과정 9네이버 클라우드)
