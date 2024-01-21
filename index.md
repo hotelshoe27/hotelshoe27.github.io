@@ -23,5 +23,7 @@ I'm interested in Deep learning, Image segmentation, Medical image analysis, Log
 ### Certification
 
 정보처리기사
+
 컴퓨터활용능력2급
+
 NCA(Ncloud)
