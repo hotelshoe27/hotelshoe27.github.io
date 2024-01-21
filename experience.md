@@ -1,4 +1,4 @@
----
+![image](https://github.com/hotelshoe27/hotelshoe27.github.io/assets/120359150/5f9f9988-f522-4361-83c4-ae59adf2b0f4)![image](https://github.com/hotelshoe27/hotelshoe27.github.io/assets/120359150/60928982-9040-48f9-a43d-ea6fdcb820f4)---
 layout: experience
 title: Experience
 slug: /experience
@@ -30,3 +30,17 @@ slug: /experience
 - 2021.11 민간 SW 개발 보안 입문 과정 (한국인터넷진흥원)
 - 2022.07 International Summer Camp : How to use machine learning techniques in the field of computer security 단기국외연수 (전남대학교 AI융합인재양성사업단)
 - 2022.09 AI cloud 인재 양성 아카데미 초급 과정 9네이버 클라우드)
+
+### Mentoring support
+
+items:
+  - title: 2022.08.04
+    image:
+      src: /assets/img/work/mento_1.png
+      alt: water
+    description: 2022 마이크로 캡스톤 디자인 경진대회
+  - title: 22.11.21
+    image:
+      src: /assets/img/work/mento_2.png
+      alt: sand
+    description: 광주인공지능사관학교 기업연계 프로젝트
