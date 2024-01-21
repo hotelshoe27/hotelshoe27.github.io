@@ -1,14 +1,15 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/my_profile.png
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+### 반갑습니다👀
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+---
+### My Stack
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?&style=flat-square&logo=OpenCV&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ncloud-03C75A?&style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?&style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=white"/> 
