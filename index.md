@@ -8,8 +8,11 @@ profile_picture:
 ### 반갑습니다👀
 
 Name : Taeho shin
+
 Birth : 1995.01.10
+
 Location : Republic of Korea
+
 
 ### About me
 Hello
