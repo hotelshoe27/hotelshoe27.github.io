@@ -44,3 +44,11 @@ I'm interested in Deep learning, Image segmentation, Medical image analysis, Log
 - 컴퓨터활용능력2급
 
 - NCA(Ncloud)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### 💧project & Demo
+
+Please refer to the GitHub and blog URL below.
