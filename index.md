@@ -13,6 +13,9 @@ Birth : 1995.01.10
 
 Location : Republic of Korea
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### 💧About me
 Hello
