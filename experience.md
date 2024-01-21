@@ -32,7 +32,7 @@ slug: /experience
 - 2022.09 AI cloud 인재 양성 아카데미 초급 과정 9네이버 클라우드)
 
 ### Mentoring support
-
+---
 items:
   - title: 2022.08.04
     image:
@@ -44,3 +44,4 @@ items:
       src: /assets/img/work/mento_2.png
       alt: sand
     description: 광주인공지능사관학교 기업연계 프로젝트
+---
