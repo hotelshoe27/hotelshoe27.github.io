@@ -4,9 +4,6 @@ title: Experience
 slug: /experience
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
-<br />
-
 ### Education
 
 - 2014.02 조선대학교 부속고등학교 졸업
