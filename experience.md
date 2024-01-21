@@ -35,6 +35,9 @@ slug: /experience
 
 
 ---
+layout: publication
+title: Experience
+slug: /experience
 items:
   - title: 2022.08.04
     image:
