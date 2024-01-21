@@ -9,7 +9,7 @@ items:
       src: /assets/img/work/journal_0.png
       alt: water
     description: Shin, T.-H.; Kim, S.-H. Utility Analysis about Log Data Anomaly Detection Based on Federated Learning. Appl. Sci. 2023, 13, 4495. https://doi.org/10.3390/app13074495
-  - title: Conference
+  - title: Journal(SCI)
     image:
       src: /assets/img/work/journal_1.png
       alt: sand
