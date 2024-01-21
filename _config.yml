@@ -14,7 +14,7 @@ header:
     - name: About Me
       slug: /
     - name: Experience
-      slug: /work
+      slug: /experience
     - name: Publication
       slug: /publication
 footer:
