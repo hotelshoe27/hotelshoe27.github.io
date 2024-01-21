@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: Blog
+layout: Experience
+title: Experience
 slug: /experience
 ---
 
