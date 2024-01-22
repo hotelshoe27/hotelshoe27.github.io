@@ -29,6 +29,3 @@ items:
       alt: sand
     description: Taeho Shin, Zero Kim, et al., "Development of Deep Learning Based Model for Evaluating histological Activity Using Pathology Images", 한국계산과학공학회 2023년도 춘계학술대회, pp. 14, KISTI, 2023년 5월.
 ---
-
-<br />
-<br />
