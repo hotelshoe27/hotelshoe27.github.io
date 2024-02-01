@@ -19,6 +19,7 @@ Location : Republic of Korea
 
 ### 💧About me
 Hello
+
 I am currently working on medical image analysis and deep learning model development at Research Institute for Future Medicine of Samsung Medical Center(SMC), Republic of Korea.
 
 I'm interested in Deep learning, Image segmentation, Medical image analysis, Log analysis & Anomaly detection, Data analysis, Text recognition.
