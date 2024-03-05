@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/journal_1.png
       alt: sand
-    description: Vi Thi-Tuong Vo, Tae-ho Shin, et al. “Asynchronous Federated Learning for Survival Time Prediction using Clinical and PET Data in Non-small Cell Lung Cancer Patients.” Computer Methods and Programs in Biomedicine(To appear)
+    description: Vo, V. T. T., Shin, T. H., Yang, H. J., Kang, S. R., & Kim, S. H. (2024). A Comparison between Centralized and Asynchronous Federated Learning Approaches for Survival Outcome Prediction using Clinical and PET Data from Non-small Cell Lung Cancer Patients. Computer Methods and Programs in Biomedicine, 108104. https://doi.org/10.1016/j.cmpb.2024.108104
   - title: Conference
     image:
       src: /assets/img/work/123.jpg
