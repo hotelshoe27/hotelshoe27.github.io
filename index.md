@@ -20,9 +20,9 @@ Location : Republic of Korea
 ### 💧About me
 Hello
 
-I am currently working on medical image analysis and deep learning model development at Research Institute for Future Medicine of Samsung Medical Center(SMC), Republic of Korea.
+I am currently working on AI privacy team of Korea Internet & Security Agency(KISA), Republic of Korea.
 
-I'm interested in Deep learning, Image segmentation, Medical image analysis, Log analysis & Anomaly detection, Data analysis, Text recognition.
+I'm interested in Personal information protection & AI privacy technology, Safe data analysis environment.
 
 &nbsp;
 &nbsp;
